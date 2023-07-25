@@ -122,6 +122,7 @@ function FilterResturants()
         } 
       
     };
+    var stam = Restaurants.filter(deliverySort&&restaurantType&&restaurantPrice);
 
     document.getElementById("createRest").innerHTML="";
 
