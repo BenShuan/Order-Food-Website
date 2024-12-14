@@ -1,0 +1,2 @@
+Kfar Yona Football club
+Kfar Yona Project – As part of a frontend development competition during my studies, my partner and I designed and built a responsive website for the Kfar Yona municipality. This project, which earned us first place, showcases our proficiency in HTML, CSS, and Bootstrap. We focused on creating a user-friendly interface with features such as news updates, event calendars, and contact information.
